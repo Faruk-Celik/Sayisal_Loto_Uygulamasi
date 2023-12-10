@@ -1,0 +1,1 @@
+# Sayısal_Loto_Projesi
